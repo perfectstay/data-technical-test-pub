@@ -1,0 +1,6 @@
+/.idea/**/*
+/.idea/data-technical-test.iml
+/script/data_engineer_test.db
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+.idea
